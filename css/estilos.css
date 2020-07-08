@@ -1,0 +1,35 @@
+* {
+    text-align: center;
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    background-color: green;
+    /*opacity: 0.6;*/
+ }
+
+
+.tituloDeLaPagina{
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.largo {
+    font-size: 300%;
+}
+
+
+p {
+    display: none;
+    background-color: yellow;
+    padding: 20px;
+  }
+  
+  div:hover p {
+    display: block;
+  }
+
+  .boton{
+      background-color: blueviolet;
+      font-size: 46px;
+      color: black;
+  }
